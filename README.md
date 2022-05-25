@@ -211,3 +211,33 @@ plt.title("Feature importance using Lasso Model")
 plt.show()
 ```
 # OUTPUT :
+![a](https://user-images.githubusercontent.com/94175324/170305947-ed78bd08-68d2-433d-afcd-150af5dd79c7.png)
+![a1](https://user-images.githubusercontent.com/94175324/170306031-966c8b32-5dea-497d-aefd-1cef80b91dab.png)
+![a3](https://user-images.githubusercontent.com/94175324/170306161-62c26cff-d01f-4f33-b1b0-7fd748d3d661.png)
+![a4](https://user-images.githubusercontent.com/94175324/170306195-91003f58-8808-442b-8a83-817f87c3212f.png)
+![a5](https://user-images.githubusercontent.com/94175324/170306229-bdb2529f-98b1-4a69-80ff-b299b0f4c8c8.png)
+![a6](https://user-images.githubusercontent.com/94175324/170306263-f4bca011-681e-4479-bc87-6de9f5e32366.png)
+![a7](https://user-images.githubusercontent.com/94175324/170306290-daa9cd8d-cead-4db6-8670-a0b77cb4a085.png)
+![a8](https://user-images.githubusercontent.com/94175324/170306317-dcbc47cc-e938-47b9-a77a-f1444a6c17fd.png)
+![a9](https://user-images.githubusercontent.com/94175324/170306350-ad79ad56-4263-424b-bf37-9503c9ecded2.png)
+![a10](https://user-images.githubusercontent.com/94175324/170306381-67ac2490-a9b4-48a8-a81a-9b724a38b01c.png)
+![a11](https://user-images.githubusercontent.com/94175324/170306409-91985d24-194a-48ff-b064-6a5a58ada7d9.png)
+![a12](https://user-images.githubusercontent.com/94175324/170306437-176e5529-4fea-4a71-b015-12366415506c.png)
+![a13](https://user-images.githubusercontent.com/94175324/170306471-36c2c751-5b08-4c70-8310-7d6254614831.png)
+![a14](https://user-images.githubusercontent.com/94175324/170306522-8382737d-2b7a-4ead-9f6f-2d50412d1645.png)
+
+
+# RESULT :
+Thus, the various feature selection techniques have been performed on a given dataset successfully.
+
+
+
+
+
+
+
+
+
+
+
+
